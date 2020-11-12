@@ -233,6 +233,9 @@ https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:0,Discovery Hindi
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:0,EBS Kids
+#EXTGRP:unsorted
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:0,Peace Tv Bangla
 #EXTGRP:unsorted
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
