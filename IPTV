@@ -260,6 +260,9 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w651048037.m3u8
 #EXTINF:0,DD Sports
 #EXTGRP:unsorted
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0,Real Madrid
+#EXTGRP:unsorted
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:unsorted
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
