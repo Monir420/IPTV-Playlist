@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,JAMUNA TV
-#EXTGRP:unsorted
-http://103.205.133.50/hls/jamunatv.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:unsorted
 http://103.205.133.50/hls/channel24.m3u8
