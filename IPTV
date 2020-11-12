@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0,JAMUNA TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/jamunatv.m3u8
+#EXTINF:0,Channel 24
+#EXTGRP:unsorted
+http://103.205.133.50/hls/channel24.m3u8
+#EXTINF:0,News 24
+#EXTGRP:unsorted
+http://103.205.133.50/hls/news24.m3u8
+#EXTINF:0,DBC News
+#EXTGRP:unsorted
+http://103.205.133.50/hls/dbcnews.m3u8
+#EXTINF:0,Maasranga
+#EXTGRP:unsorted
+http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
+#EXTINF:0,Channel I
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ichannel.m3u8
+#EXTINF:0,RTV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/rtv.m3u8
+#EXTINF:0,NTV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ntv.m3u8
+#EXTINF:0,Banglavision
+#EXTGRP:unsorted
+http://103.205.133.50/hls/banglavision.m3u8
+#EXTINF:0,ATN News
+#EXTGRP:unsorted
+http://103.205.133.50/hls/atnnews.m3u8
+#EXTINF:0,ATN Bangla
+#EXTGRP:unsorted
+http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:0,Nagorik TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/nagorik.m3u8
+#EXTINF:0,My TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/mytv.m3u8
+#EXTINF:0,Ekushey TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:0,Mohona Tv
+#EXTGRP:unsorted
+http://103.205.133.50/hls/mohonatv.m3u8
+#EXTINF:0,SATV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/satv.m3u8
+#EXTINF:0,Deepto TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/deeptotv.m3u8
+#EXTINF:0,BTV World
+#EXTGRP:unsorted
+http://103.205.133.50/hls/btvworld.m3u8
+#EXTINF:0,BTV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/btv.m3u8
+#EXTINF:0,Bangla TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/banglatv.m3u8
+#EXTINF:0,Gaan Bangla
+#EXTGRP:unsorted
+http://103.205.133.50/hls/gaanbangla.m3u8
+#EXTINF:0,Alif Tv
+#EXTGRP:unsorted
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:0,Deshi Tv
+#EXTGRP:unsorted
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
+#EXTINF:0,Star Jalsha
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chsj.m3u8
+#EXTINF:0,Star Jalsha HD
+#EXTGRP:unsorted
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+#EXTINF:0,Jalsha Movies HD
+#EXTGRP:unsorted
+http://master.beeiptv.com:8081/MB/starjalshamovies/playlist.m3u8
+#EXTINF:0,Zee Bangla
+#EXTGRP:unsorted
+http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:0,Zee Bangla HD
+#EXTGRP:unsorted
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
+#EXTINF:0,Zee Bangla Cinema
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:0,Colors Bangla
+#EXTGRP:unsorted
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0,Bangla Time
+#EXTGRP:unsorted
+http://103.205.133.50/hls/banglatime.m3u8
+#EXTINF:0,Ruposhi Bangla
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ruposhibangla.m3u8
+#EXTINF:0,Enter 10 Bangla
+#EXTGRP:unsorted
+http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
+#EXTINF:0,ABP Ananda
+#EXTGRP:unsorted
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:0,Sony Tv HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:0,Sony Tv SD
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chs.m3u8
+#EXTINF:0,Sony Max
+#EXTGRP:unsorted
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Sony Max HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+#EXTINF:0,Sony Max 2
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:0,Sony WAH
+#EXTGRP:unsorted
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
+#EXTINF:0,Zee Action
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Star Gold
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zee Cinema HD
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Colors Cineplex HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bflix Movies
+#EXTGRP:unsorted
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0,B4U Plus
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-B4UPLUS/index.m3u8
+#EXTINF:0,Zee Classic
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Sony Sab HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:0,Zing
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Zee TV HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+#EXTINF:0,Colors HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+#EXTINF:0,Star Bhatar HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:0,Star Plus HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+#EXTINF:0,Zee TV
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
+#EXTINF:0,Colors Rishtey
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
+#EXTINF:0,Colors
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chc.m3u8
+#EXTINF:0,Star Plus
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chsp.m3u8
+#EXTINF:0,& TV
+#EXTGRP:unsorted
+http://103.205.133.50/hls/andtv.m3u8
+#EXTINF:0,& Pictures
+#EXTGRP:unsorted
+http://103.205.133.50/hls/andpicture.m3u8
+#EXTINF:0,Zee Anmol Cinema
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Wow Cinema
+#EXTGRP:unsorted
+http://103.205.133.50/hls/wowcinema.m3u8
+#EXTINF:0,Manoranjan Movies
+#EXTGRP:unsorted
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0,B4U Kadak
+#EXTGRP:unsorted
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
+#EXTINF:0,Zee Bioskope
+#EXTGRP:unsorted
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,HBO
+#EXTGRP:unsorted
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:0,Movies Now
+#EXTGRP:unsorted
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0,&Flix HD
+#EXTGRP:unsorted
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,9XM
+#EXTGRP:unsorted
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0,Music India
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
+#EXTINF:0,B4U Music
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-B4UMUSIC/index.m3u8
+#EXTINF:0,9X Tahsan
+#EXTGRP:unsorted
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
+#EXTINF:0,Mastii
+#EXTGRP:unsorted
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+#EXTINF:0,Dabaang
+#EXTGRP:unsorted
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF:0,Sangeet Bangla
+#EXTGRP:unsorted
+http://103.205.133.50/hls/sangeetbangla.m3u8
+#EXTINF:0,Dhoom Music
+#EXTGRP:unsorted
+http://103.205.133.50/hls/dhoommusic.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:0,Discovery Bangla
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+#EXTINF:0,Discovery Hindi
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:0,Peace Tv Bangla
+#EXTGRP:unsorted
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
+#EXTINF:0,Star Sports 2
+#EXTGRP:unsorted
+http://103.205.133.50/hls/chss2.m3u8
+#EXTINF:0,Sony Ten 3
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ten3.m3u8
+#EXTINF:0,Sony Ten 1
+#EXTGRP:unsorted
+http://103.205.133.50/hls/ten1.m3u8
+#EXTINF:0,Bein Sports
+#EXTGRP:unsorted
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:0,Ten Sports
+#EXTGRP:unsorted
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w651048037.m3u8
+#EXTINF:0,DD Sports
+#EXTGRP:unsorted
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:unsorted
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
