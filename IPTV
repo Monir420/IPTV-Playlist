@@ -185,15 +185,6 @@ http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Wow Cinema
 #EXTGRP:unsorted
 http://103.205.133.50/hls/wowcinema.m3u8
-#EXTINF:0,Manoranjan Movies
-#EXTGRP:unsorted
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:0,B4U Kadak
-#EXTGRP:unsorted
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
-#EXTINF:0,Zee Bioskope
-#EXTGRP:unsorted
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:0,Hum
 #EXTGRP:unsorted
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1538720222.m3u8
@@ -230,9 +221,6 @@ http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:0,Dhoom Music
 #EXTGRP:unsorted
 http://103.205.133.50/hls/dhoommusic.m3u8
-#EXTINF:0,7s Music
-#EXTGRP:unsorted
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/Stream(02)/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
