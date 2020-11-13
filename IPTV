@@ -257,6 +257,9 @@ http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:0,MNX
 #EXTGRP:unsorted
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:0,Movie Kingdom
+#EXTGRP:unsorted
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:0,9XM
 #EXTGRP:unsorted
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -293,6 +296,12 @@ https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:0,Discovery Hindi
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:0,Discovery Science Hindi
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 #EXTINF:0,EBS Kids
 #EXTGRP:unsorted
 http://210.210.155.35/dr9445/h/h02/01.m3u8
