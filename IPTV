@@ -212,12 +212,18 @@ http://103.205.133.50/hls/chc.m3u8
 #EXTINF:0,Star Plus
 #EXTGRP:unsorted
 http://103.205.133.50/hls/chsp.m3u8
+#EXTINF:0,Sony Pal
+#EXTGRP:unsorted
+https://ahmadabdullahrifat.shortcm.li/sonypal
 #EXTINF:0,& TV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/andtv.m3u8
 #EXTINF:0,& Pictures
 #EXTGRP:unsorted
 http://103.205.133.50/hls/andpicture.m3u8
+#EXTINF:0,Zee Smile
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:0,Zee Anmol Cinema
 #EXTGRP:unsorted
 http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
