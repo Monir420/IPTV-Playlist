@@ -164,9 +164,12 @@ https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:unsorted
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Star Gold
+#EXTINF:0,Star Gold HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Gold Select
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:unsorted
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
