@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,JAMUNA TV
 #EXTGRP:unsorted
-https://edge4.bioscopelive.com/hls/anonymous/70EHvXMudLDwh7znInhReA/1605245102/shomoy_tv_mid/index.m3u8
+http://103.205.133.50/hls/jamunatv.m3u8
 #EXTINF:0,Channel 24
 #EXTGRP:unsorted
 http://103.205.133.50/hls/channel24.m3u8
@@ -10,7 +10,7 @@ http://103.205.133.50/hls/channel24.m3u8
 http://103.205.133.50/hls/news24.m3u8
 #EXTINF:0,Somoy TV
 #EXTGRP:unsorted
-https://edge4.bioscopelive.com/hls/anonymous/70EHvXMudLDwh7znInhReA/1605245102/shomoy_tv_mid/index.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0,DBC News
 #EXTGRP:unsorted
 http://103.205.133.50/hls/dbcnews.m3u8
