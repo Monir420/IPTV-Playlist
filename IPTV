@@ -233,6 +233,9 @@ http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Wow Cinema
 #EXTGRP:unsorted
 http://103.205.133.50/hls/wowcinema.m3u8
+#EXTINF:0,Bollywood TV
+#EXTGRP:unsorted
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0,Hum
 #EXTGRP:unsorted
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1538720222.m3u8
@@ -245,6 +248,15 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0,&Flix HD
 #EXTGRP:unsorted
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,& Prive HD
+#EXTGRP:unsorted
+http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:unsorted
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+#EXTINF:0,MNX
+#EXTGRP:unsorted
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0,9XM
 #EXTGRP:unsorted
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
