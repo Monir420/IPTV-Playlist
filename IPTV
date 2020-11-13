@@ -344,6 +344,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 http://203.162.235.41:16918
+#EXTINF:0,Travel TV
+#EXTGRP:unsorted
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:0,Food Channel
 #EXTGRP:unsorted
 http://5.135.92.133:52841/out/u/502_1.m3u8
