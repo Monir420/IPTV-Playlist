@@ -239,6 +239,9 @@ http://103.205.133.50/hls/andpicture.m3u8
 #EXTINF:0,Zee Smile
 #EXTGRP:unsorted
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+#EXTINF:0,Box Cinema
+#EXTGRP:unsorted
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:0,Manoranjan Movies
 #EXTGRP:unsorted
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
@@ -247,7 +250,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Wow Cinema
 #EXTGRP:unsorted
-http://103.205.133.50/hls/wowcinema.m3u8
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:0,ABZY Movies
+#EXTGRP:unsorted
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 #EXTINF:0,Bollywood TV
 #EXTGRP:unsorted
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
@@ -257,9 +263,18 @@ http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1538720222.m3u8
 #EXTINF:0,ARY Family
 #EXTGRP:unsorted
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
+#EXTINF:0,DD National
+#EXTGRP:unsorted
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 #EXTINF:0,HBO
 #EXTGRP:unsorted
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:0,MBC 2 HD
+#EXTGRP:unsorted
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:0,MBC MX
+#EXTGRP:unsorted
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:0,Movies Now
 #EXTGRP:unsorted
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -335,9 +350,6 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:0,Nick
 #EXTGRP:unsorted
 https://watchindia.net:8443/live/90614/97282/2182.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:unsorted
-https://watchindia.net:8443/live/90614/97282/2059.m3u8
 #EXTINF:0,EBS Kids
 #EXTGRP:unsorted
 http://210.210.155.35/dr9445/h/h02/01.m3u8
