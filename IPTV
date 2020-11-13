@@ -185,6 +185,9 @@ http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,UTV Action
+#EXTGRP:unsorted
+https://watchindia.net:8443/live/90614/97282/805.m3u8
 #EXTINF:0,Bflix Movies
 #EXTGRP:unsorted
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -302,6 +305,9 @@ http://103.205.133.50/hls/sangeetbangla.m3u8
 #EXTINF:0,Dhoom Music
 #EXTGRP:unsorted
 http://103.205.133.50/hls/dhoommusic.m3u8
+#EXTINF:0,Joo Music
+#EXTGRP:unsorted
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:0,ATN Music
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
@@ -326,6 +332,12 @@ https://watchindia.net:8443/live/90614/97282/2052.m3u8
 #EXTINF:0,Discovery Kids
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:0,Nick
+#EXTGRP:unsorted
+https://watchindia.net:8443/live/90614/97282/2182.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:unsorted
+https://watchindia.net:8443/live/90614/97282/2059.m3u8
 #EXTINF:0,EBS Kids
 #EXTGRP:unsorted
 http://210.210.155.35/dr9445/h/h02/01.m3u8
