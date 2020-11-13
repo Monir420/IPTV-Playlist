@@ -329,6 +329,33 @@ http://103.205.133.50/hls/ten3.m3u8
 #EXTINF:0,Sony Ten 1
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ten1.m3u8
+#EXTINF:0,Sony Six HD
+#EXTGRP:unsorted
+https://ahmadabdullahrifat.shortcm.li/sonysix
+#EXTINF:0,Sky Sports EPL
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:0,Sky Sports EVENT
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Football
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:0,Sky Sports MIX
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Action
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Arena
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:0,Sky Sports Golf
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+#EXTGRP:unsorted
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:0,Bein Sports
 #EXTGRP:unsorted
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
