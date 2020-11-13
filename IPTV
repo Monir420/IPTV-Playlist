@@ -8,6 +8,9 @@ http://103.205.133.50/hls/channel24.m3u8
 #EXTINF:0,News 24
 #EXTGRP:unsorted
 http://103.205.133.50/hls/news24.m3u8
+#EXTINF:0,Somoy News
+#EXTGRP:unsorted
+https://edge4.bioscopelive.com/hls/anonymous/70EHvXMudLDwh7znInhReA/1605245102/shomoy_tv_mid/index.m3u8
 #EXTINF:0,DBC News
 #EXTGRP:unsorted
 http://103.205.133.50/hls/dbcnews.m3u8
