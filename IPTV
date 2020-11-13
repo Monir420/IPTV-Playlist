@@ -14,6 +14,9 @@ http://103.205.133.50/hls/dbcnews.m3u8
 #EXTINF:0,Maasranga
 #EXTGRP:unsorted
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
+#EXTINF:0,Independent
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0,Channel I
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ichannel.m3u8
