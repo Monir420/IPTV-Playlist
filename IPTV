@@ -269,6 +269,9 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:0,Movie Kingdom
 #EXTGRP:unsorted
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0,MBC Action
+#EXTGRP:unsorted
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:0,9XM
 #EXTGRP:unsorted
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -377,6 +380,9 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 #EXTINF:0,Real Madrid
 #EXTGRP:unsorted
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:0,Al Jazeera
+#EXTGRP:unsorted
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8?@amarnettv.live
 #EXTINF:0,BBC World News
 #EXTGRP:unsorted
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
