@@ -125,6 +125,9 @@ http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0,Colors Bangla
 #EXTGRP:unsorted
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:0,Akash Aat
+#EXTGRP:unsorted
+https://load.airtelxstream.in/aakashaath/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Bangla Time
 #EXTGRP:unsorted
 http://103.205.133.50/hls/banglatime.m3u8
@@ -371,6 +374,9 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0,BBC World News
 #EXTGRP:unsorted
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0,NDTV 24x7
+#EXTGRP:unsorted
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:0,DW
 #EXTGRP:unsorted
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
