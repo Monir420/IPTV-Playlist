@@ -68,9 +68,21 @@ http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:0,Gaan Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/gaanbangla.m3u8
+#EXTINF:0,My Cinema
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:0,Joyojatra
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:0,Alif Tv
 #EXTGRP:unsorted
 http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:0,Ar TV
+#EXTGRP:unsorted
+https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
+#EXTINF:0,Bangla Channel
+#EXTGRP:unsorted
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:0,Deshi Tv
 #EXTGRP:unsorted
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
