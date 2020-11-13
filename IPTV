@@ -143,6 +143,9 @@ http://103.205.133.50/hls/ruposhibangla.m3u8
 #EXTINF:0,Enter 10 Bangla
 #EXTGRP:unsorted
 http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
+#EXTINF:0,Khusboo Bangla
+#EXTGRP:unsorted
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:0,ABP Ananda
 #EXTGRP:unsorted
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
