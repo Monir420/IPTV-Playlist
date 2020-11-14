@@ -166,7 +166,7 @@ http://103.205.133.50/hls/chs.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
-https://watchindia.net:8443/live/90614/97282/788.m3u8
+http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
@@ -175,7 +175,7 @@ http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:unsorted
-https://watchindia.net:8443/live/90614/97282/821.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:0,Star Gold HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
@@ -205,7 +205,7 @@ http://dx3.gcdn.co/hindi-B4UPLUS/index.m3u8
 http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Sab HD
 #EXTGRP:unsorted
-https://watchindia.net:8443/live/90614/97282/781.m3u8
+http://dx3.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zing
 #EXTGRP:unsorted
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
