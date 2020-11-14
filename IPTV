@@ -169,7 +169,7 @@ http://103.205.133.50/hls/chs.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
+http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/147
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
