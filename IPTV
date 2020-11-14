@@ -179,9 +179,12 @@ http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
+#EXTINF:0,Zee Cinema
+#EXTGRP:unsorted
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:unsorted
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
