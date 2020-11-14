@@ -257,6 +257,9 @@ https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 #EXTINF:0,Bollywood TV
 #EXTGRP:unsorted
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Zee Cafe 
+#EXTGRP:unsorted
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:0,Hum
 #EXTGRP:unsorted
 http://125.209.99.45:43568/BRN/HumTV.stream/chunklist_w1538720222.m3u8
