@@ -311,6 +311,9 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in_480p/index.m3u8
 #EXTINF:0,Mastii
 #EXTGRP:unsorted
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+#EXTINF:0,Jhanjaar Music
+#EXTGRP:unsorted
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:0,Dabaang
 #EXTGRP:unsorted
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
@@ -326,6 +329,9 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:0,ATN Music
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:0,1 Music HD
+#EXTGRP:unsorted
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
@@ -356,6 +362,12 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:0,Animax
 #EXTGRP:unsorted
 http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
+#EXTINF:0,Spacetoon
+#EXTGRP:unsorted
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0,Sheemaroo Kids
+#EXTGRP:unsorted
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:0,Peace Tv Bangla
 #EXTGRP:unsorted
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
@@ -365,6 +377,9 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0,Duniya News
 #EXTGRP:unsorted
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+#EXTINF:0,Ary News
+#EXTGRP:unsorted
+http://95.211.211.168/live/arynews0012/playlist.m3u8
 #EXTINF:0,Star Sports 2
 #EXTGRP:unsorted
 http://103.205.133.50/hls/chss2.m3u8
@@ -428,6 +443,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 http://203.162.235.41:16918
+#EXTINF:0,Airaang
+#EXTGRP:unsorted
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0,Travel
 #EXTGRP:unsorted
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
