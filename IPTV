@@ -184,7 +184,7 @@ https://watchindia.net:8443/live/90614/97282/784.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:unsorted
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+http://103.205.133.50/hls/zeecinema.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
