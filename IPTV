@@ -398,6 +398,9 @@ http://103.205.133.50/hls/ten1.m3u8
 #EXTINF:0,Sony Six HD
 #EXTGRP:unsorted
 https://ahmadabdullahrifat.shortcm.li/sonysix
+#EXTINF:0,Dubai Racing
+#EXTGRP:unsorted
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0,Sky Sports EPL
 #EXTGRP:unsorted
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
