@@ -71,6 +71,9 @@ http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:0,GTV
 #EXTGRP:unsorted
 http://43.251.86.6:8080/hls/channel_1.m3u8
+#EXTINF:0,GTV HD
+#EXTGRP:unsorted
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:0,Gaan Bangla
 #EXTGRP:unsorted
 http://103.205.133.50/hls/gaanbangla.m3u8
