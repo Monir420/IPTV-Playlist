@@ -163,7 +163,7 @@ http://103.205.133.50/hls/chs.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+https://watchindia.net:8443/live/90614/97282/788.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
@@ -326,6 +326,9 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:0,9X Jalwaa
 #EXTGRP:unsorted
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0,9X Jhakaas
+#EXTGRP:unsorted
+https://load.airtelxstream.in/9xjhakaas/smil:common.smil/playlist.m3u8
 #EXTINF:0,Jhanjaar Music
 #EXTGRP:unsorted
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
