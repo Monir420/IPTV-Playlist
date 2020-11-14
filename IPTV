@@ -254,6 +254,9 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:0,Wow Cinema
 #EXTGRP:unsorted
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:0,Maha Movie
+#EXTGRP:unsorted
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:0,ABZY Movies
 #EXTGRP:unsorted
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
@@ -323,6 +326,9 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0,Jhanjaar Music
 #EXTGRP:unsorted
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0,MH 1
+#EXTGRP:unsorted
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:0,Dabaang
 #EXTGRP:unsorted
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
@@ -341,6 +347,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0,1 Music HD
 #EXTGRP:unsorted
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:0,Only Music
+#EXTGRP:unsorted
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:0,Ary Musik
 #EXTGRP:unsorted
 https://stream.arylive.com/MusikLive/index.m3u8
