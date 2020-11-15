@@ -184,7 +184,7 @@ https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:unsorted
-http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/23142
+http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
 #EXTINF:0,Star Gold 2
 #EXTGRP:unsorted
 http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/20383
@@ -401,6 +401,9 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:0,Nick
 #EXTGRP:unsorted
 http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/23136
+#EXTINF:0,Nick Jr
+#EXTGRP:unsorted
+http://dx3.gcdn.co/kids-NICKJR/index.m3u8
 #EXTINF:0,Sonic
 #EXTGRP:unsorted
 http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/22862
@@ -491,6 +494,9 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:0,Aaj Tak HD
 #EXTGRP:unsorted
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0,History HD
+#EXTGRP:unsorted
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:0,DW
 #EXTGRP:unsorted
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
