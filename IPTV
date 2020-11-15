@@ -74,9 +74,6 @@ http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:0,GTV
 #EXTGRP:unsorted
 http://43.251.86.6:8080/hls/channel_1.m3u8
-#EXTINF:0,GTV HD
-#EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/122
 #EXTINF:0,Bijoy TV
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
@@ -118,7 +115,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:0,Star Jalsha HD
 #EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/193
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 #EXTINF:0,Sony Aath
 #EXTGRP:unsorted
 http://103.205.133.50/hls/sony8.m3u8
@@ -194,9 +191,6 @@ http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
-#EXTINF:0,UTV Action
-#EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/830
 #EXTINF:0,Bflix Movies
 #EXTGRP:unsorted
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
