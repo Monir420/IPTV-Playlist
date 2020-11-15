@@ -203,6 +203,9 @@ http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/830
 #EXTINF:0,Bflix Movies
 #EXTGRP:unsorted
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0,Miniplex HD
+#EXTGRP:unsorted
+http://dx3.gcdn.co/hindi-MINIPLEXHD/index.m3u8
 #EXTINF:0,B4U Plus
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-B4UPLUS/index.m3u8
