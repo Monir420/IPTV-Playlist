@@ -169,7 +169,7 @@ http://103.205.133.50/hls/chs.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/147
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
@@ -185,15 +185,12 @@ http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:0,Star Gold Select
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-#EXTINF:0,Star Gold 2
-#EXTGRP:unsorted
-http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/20383
 #EXTINF:0,Zee Cinema
 #EXTGRP:unsorted
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:0,Zee Cinema HD
 #EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/824
+http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Colors Cineplex HD
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
@@ -214,7 +211,7 @@ http://dx3.gcdn.co/hindi-B4UPLUS/index.m3u8
 http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Sab HD
 #EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/657
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:0,Zing
 #EXTGRP:unsorted
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
@@ -244,7 +241,7 @@ http://103.205.133.50/hls/chc.m3u8
 http://103.205.133.50/hls/chsp.m3u8
 #EXTINF:0,Sony Pal
 #EXTGRP:unsorted
-https://ahmadabdullahrifat.shortcm.li/sonypal
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 #EXTINF:0,& TV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/andtv.m3u8
@@ -287,9 +284,6 @@ http://95.211.211.168/live/aryfamily0071/playlist.m3u8
 #EXTINF:0,DD National
 #EXTGRP:unsorted
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-#EXTINF:0,Star Movies HD
-#EXTGRP:unsorted
-http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/26358
 #EXTINF:0,HBO
 #EXTGRP:unsorted
 http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
@@ -383,30 +377,15 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:0,Discovery Science Hindi
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:0,Discovery HD
-#EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/108
-#EXTINF:0,NAT Geo
-#EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/138
 #EXTINF:0,Discovery Turbo
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF:0,Cartoon Network HD
-#EXTGRP:unsorted
-http://digiiptv.ddns.net:25461/Nsk6eZkGbA/CBnhoCVhKH/148
 #EXTINF:0,Discovery Kids
 #EXTGRP:unsorted
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:0,Nick
-#EXTGRP:unsorted
-http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/23136
 #EXTINF:0,Nick Jr
 #EXTGRP:unsorted
 http://dx3.gcdn.co/kids-NICKJR/index.m3u8
-#EXTINF:0,Sonic
-#EXTGRP:unsorted
-http://doom2-iptv.net:2082/26264438/Y0f4PJBMKI/22862
 #EXTINF:0,EBS Kids
 #EXTGRP:unsorted
 http://210.210.155.35/dr9445/h/h02/01.m3u8
