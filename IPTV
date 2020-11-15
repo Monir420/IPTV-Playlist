@@ -26,6 +26,9 @@ http://103.205.133.50/hls/ichannel.m3u8
 #EXTINF:0,RTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/rtv.m3u8
+#EXTINF:0,Boishakhi TV
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0,NTV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/ntv.m3u8
@@ -59,6 +62,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0,Deepto TV
 #EXTGRP:unsorted
 http://103.205.133.50/hls/deeptotv.m3u8
+#EXTINF:0,Sangsad TV
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0,BTV World
 #EXTGRP:unsorted
 http://103.205.133.50/hls/btvworld.m3u8
@@ -74,6 +80,12 @@ http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:0,GTV
 #EXTGRP:unsorted
 http://43.251.86.6:8080/hls/channel_1.m3u8
+#EXTINF:0,Duranta 
+#EXTGRP:unsorted
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+#EXTINF:0,Ananda TV
+#EXTGRP:unsorted
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0,Bijoy TV
 #EXTGRP:unsorted
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
