@@ -10,7 +10,7 @@ http://103.205.133.50/hls/channel24.m3u8
 http://103.205.133.50/hls/news24.m3u8
 #EXTINF:0,Somoy News
 #EXTGRP:unsorted
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://aklivetv.com:8080/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:0,DBC News
 #EXTGRP:unsorted
 http://103.205.133.50/hls/dbcnews.m3u8
@@ -79,7 +79,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:0,GTV
 #EXTGRP:unsorted
-http://43.251.86.6:8080/hls/channel_1.m3u8
+http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Duranta 
 #EXTGRP:unsorted
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
@@ -178,7 +178,7 @@ http://103.205.133.50/hls/chs.m3u8
 https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Sony Max HD
 #EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+http://aklivetv.com:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
@@ -395,6 +395,9 @@ http://tv-cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:0,Nick Jr
 #EXTGRP:unsorted
 http://dx3.gcdn.co/kids-NICKJR/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:unsorted
+http://aklivetv.com:8080/cn/tracks-v1a1/mono.m3u8
 #EXTINF:0,EBS Kids
 #EXTGRP:unsorted
 http://210.210.155.35/dr9445/h/h02/01.m3u8
