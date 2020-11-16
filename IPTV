@@ -169,7 +169,7 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 #EXTINF:0,Sony Tv HD
 #EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+http://208.115.215.42/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:0,Sony Tv SD
 #EXTGRP:unsorted
 http://103.205.133.50/hls/chs.m3u8
@@ -217,7 +217,7 @@ http://dx3.gcdn.co/hindi-B4UPLUS/index.m3u8
 http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Sony Sab HD
 #EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,Zing
 #EXTGRP:unsorted
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
